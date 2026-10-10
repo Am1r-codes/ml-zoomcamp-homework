@@ -1,0 +1,12 @@
+name: ml-zoomcamp
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - jupyter
+  - scikit-learn
+  - matplotlib
+  - numpy
+  - seaborn
+prefix: /home/amira/miniconda3/envs/ml-zoomcamp
